@@ -51,7 +51,7 @@ Game.loadAssets = function () {
     // Bossa Antigua Kevin MacLeod (incompetech.com)
     // Licensed under Creative Commons: By Attribution 3.0 License
     // http://creativecommons.org/licenses/by/3.0/
-    sounds.jazzTune = loadSound("Bossa Antigua.mp3");
+    sounds.jazzTune = loadSound("Bossa Antigua.ogg");
 }
 
 sounds.fadeOut = function(sound) {
